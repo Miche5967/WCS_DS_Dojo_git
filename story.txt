@@ -2,3 +2,4 @@ Autobigraphie : Il était une fois Charlotte, étudiante en data science qui ren
 Un beau jour, elle fit part de ses problèmes à ses camarades de classe. Suite à une mobilisation générale et à l'expérience de Benoit,
 elle a pu résoudre rapidement un problème qui persistait depuis plus d'un an. 
 Morale : Avec Benoit, réalise l'exploit.
+
