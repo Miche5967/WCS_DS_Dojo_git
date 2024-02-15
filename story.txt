@@ -1,1 +1,8 @@
 Chaque jour, Jin se réveillait à 8 heures du matin, prenait une douche, prenait son petit-déjeuner et partait travailler. Mais aujourd'hui, quelque chose d'étrange s'est passé. John s'est réveillé et est allé à la salle de bain, où il a vu...
+=======
+Autobigraphie : Il était une fois Charlotte, étudiante en data science qui rencontrait d'importants problèmes concernant GitHub.
+Un beau jour, elle fit part de ses problèmes à ses camarades de classe. Suite à une mobilisation générale et à l'expérience de Benoit,
+elle a pu résoudre rapidement un problème qui persistait depuis plus d'un an. 
+Morale : Avec Benoit, réalise l'exploit.
+
+
