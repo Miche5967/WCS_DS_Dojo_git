@@ -1,4 +1,5 @@
-Chaque jour, John se réveillait à 8 heures du matin, prenait une douche, prenait son petit-déjeuner et partait travailler. Mais aujourd'hui, quelque chose d'étrange s'est passé. John s'est réveillé et est allé à la salle de bain, où il a vu une putain de grosse araignée de sa mère ! Elle était grosse comme le bout de son pouce, noire et a priori velue.  John tomba dans les pommes sur le carrelage.
-A son réveil, il avait mal à la tête. Il s'était blessé au crâne en tombant, du sang coulait de sa plaie. Mais le pire, la putain d'araignée de sa mère n'était plus là. Elle pouvait être n'importe où. Et John sait que ce qu'il y a de pire qu'une putain d'araignée de sa mère vivante, c'est une putain d'araignée de sa mère vivante ET cachée.
-
+Autobigraphie : Il était une fois Charlotte, étudiante en data science qui rencontrait d'importants problèmes concernant GitHub.
+Un beau jour, elle fit part de ses problèmes à ses camarades de classe. Suite à une mobilisation générale et à l'expérience de Benoit,
+elle a pu résoudre rapidement un problème qui persistait depuis plus d'un an. 
+Morale : Avec Benoit, réalise l'exploit.
 
